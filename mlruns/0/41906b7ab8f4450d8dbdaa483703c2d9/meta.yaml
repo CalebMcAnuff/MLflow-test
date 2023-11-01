@@ -1,0 +1,15 @@
+artifact_uri: file:///home/caleb/school/fall-2023/Artificial-Neural-Net/week8/mlruns/0/41906b7ab8f4450d8dbdaa483703c2d9/artifacts
+end_time: 1698878700083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41906b7ab8f4450d8dbdaa483703c2d9
+run_name: aged-worm-610
+run_uuid: 41906b7ab8f4450d8dbdaa483703c2d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698878697409
+status: 3
+tags: []
+user_id: caleb

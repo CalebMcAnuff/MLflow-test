@@ -1,0 +1,15 @@
+artifact_uri: file:///home/caleb/school/fall-2023/Artificial-Neural-Net/week8/mlruns/0/39ebd773eb8a44a3be1e4e0ce352f513/artifacts
+end_time: 1698879080508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39ebd773eb8a44a3be1e4e0ce352f513
+run_name: traveling-wren-287
+run_uuid: 39ebd773eb8a44a3be1e4e0ce352f513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698879078042
+status: 3
+tags: []
+user_id: caleb
