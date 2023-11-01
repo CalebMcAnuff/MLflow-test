@@ -1,0 +1,15 @@
+artifact_uri: file:///home/caleb/school/fall-2023/Artificial-Neural-Net/week8/mlruns/0/03f3f29ef1784a4d8802bb67bec293c4/artifacts
+end_time: 1698881417091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03f3f29ef1784a4d8802bb67bec293c4
+run_name: angry-toad-696
+run_uuid: 03f3f29ef1784a4d8802bb67bec293c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698881414260
+status: 3
+tags: []
+user_id: caleb

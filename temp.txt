@@ -1,0 +1,4 @@
+MLFLOW_TRACKING_URI=https://dagshub.com/CalebMcAnuff/MLflow-test.mlflow \
+MLFLOW_TRACKING_USERNAME=CalebMcAnuff \
+MLFLOW_TRACKING_PASSWORD=c6919d03ed00375bcacf3e3ef58e7cb7f5ea6796 \
+python script.py
